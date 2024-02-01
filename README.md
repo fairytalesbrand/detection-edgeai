@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="EdgeAI Logo" width="80">
+  <img src="logo.png" alt="EdgeAI Logo" width="80">
 </p>
 
 <h1 align="center"> Detection Edge AI </h>
